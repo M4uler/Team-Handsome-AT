@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Mauler&apos;s Handsome 40k Rep" indexUrl="https://github.com/M4uler/Team-Handsome-AT/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="[Team Handsome] Warhammer 30,000 Adeptus Titanicus (2018).gstz" dataType="gamesystem" dataId="6857-d200-c3a6-c82c" dataName="[Team Handsome] Warhammer 30,000: Adeptus Titanicus (2018)" dataBattleScribeVersion="2.01" dataRevision="1001"/>
+  </dataIndexEntries>
+</dataIndex>
