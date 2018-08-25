@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion="2.01" name="Mauler&apos;s Handsome Rep" indexUrl="https://github.com/M4uler/Team-Handsome-40k/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
-    <dataIndexEntry filePath="[Team Handsome] Warhammer 30,000 Adeptus Titanicus.gstz" dataType="gamesystem" dataId="6857-d200-c3a6-c82c" dataName="[Team Handsome] Warhammer 30,000: Adeptus Titanicus" dataBattleScribeVersion="2.01" dataRevision="1001"/>
-    <dataIndexEntry filePath="[Team Handsome] Adeptus Titanicus - Imperium of Man.catz" dataType="catalogue" dataId="e3b4-0dad-916a-7869" dataName="[Team Handsome] Adeptus Titanicus - Imperium of Man" dataBattleScribeVersion="2.01" dataRevision="1001"/>
+    <dataIndexEntry filePath="[Team Handsome] Warhammer 30,000 Adeptus Titanicus.gstz" dataType="gamesystem" dataId="6857-d200-c3a6-c82c" dataName="[Team Handsome] Warhammer 30,000: Adeptus Titanicus" dataBattleScribeVersion="2.01" dataRevision="1002"/>
+    <dataIndexEntry filePath="[Team Handsome] Adeptus Titanicus - Imperium of Man.catz" dataType="catalogue" dataId="e3b4-0dad-916a-7869" dataName="[Team Handsome] Adeptus Titanicus - Imperium of Man" dataBattleScribeVersion="2.01" dataRevision="1002"/>
   </dataIndexEntries>
 </dataIndex>
